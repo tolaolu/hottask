@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 FROM alpine:3.14
-=======
-FROM alpine
->>>>>>> dev
 
 WORKDIR /app
 
